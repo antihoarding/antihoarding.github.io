@@ -1,5 +1,5 @@
 ---
-title: Hello world, Hello AntihHoardingPlan
+title: Hello world, Hello AntiHoardingPlan
 date: 2022-02-11 15:28:54
 tags: Hello
 categories: "随笔记"
@@ -12,7 +12,7 @@ thumbnail: /images/landscape.jpg
 
 某天在写代码的时候，灵光一闪，想用这种方式来和你 `Say Hello`。
 
-## Hello AntihHoardingPlan
+## Hello AntiHoardingPlan
 
 源自一次日常聊天, 关于表达, 当意识到很难把自己内心的想法给写出来的时候, 一个可以单向输出, 不在乎别人看法的表达途径被两个人同时想到。
 
