@@ -331,8 +331,8 @@ data_prefix:
 data_dir:
 
 # Favicon, default to `favicon.ico`
-favicon:
-
+# favicon: 
+favicon: /images/favicon.ico
 # Google analytics
 # ga: UA-00000000-0
 
