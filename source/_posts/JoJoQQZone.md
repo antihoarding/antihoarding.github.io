@@ -1,12 +1,12 @@
 ---
-title: JoJoQQZone
+title: 欢迎踩踩我的空间
 date: 2022-02-28 22:48:47
-tags: 欢迎踩踩我的空间
+tags: jotalk
 categories: "Jo"
 thumbnail: /images/jojoqqzone.jpg
 ---
 
-> 本文同步发表在微信公众号`免贮计划`。
+> 本文同步发布在微信公众号`@免贮计划`。
 
 很有道理地在开头胡说八道：本篇正文1166个字，一目十行预计1分钟读完；但配乐长达4分21秒，希望你可以支持梦龙听完歌再走。[Not Today (From "Me Before You" Soundtrack) - Imagine Dragons](https://y.qq.com/n/ryqq/songDetail/268164503)
 
